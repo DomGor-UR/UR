@@ -1,0 +1,2 @@
+# UR
+plik ogólny
